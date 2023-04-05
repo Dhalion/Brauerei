@@ -1,0 +1,6 @@
+[submodule "brauerei-hmi"]
+	path = brauerei-hmi
+	url = https://github.com/Dhalion/brauerei-hmi
+[submodule "brauerei-emulator"]
+	path = brauerei-emulator
+	url = https://github.com/Dhalion/brauerei-emulator
