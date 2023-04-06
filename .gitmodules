@@ -1,6 +1,8 @@
 [submodule "brauerei-hmi"]
 	path = brauerei-hmi
 	url = https://github.com/Dhalion/brauerei-hmi
+	branch = master
 [submodule "brauerei-emulator"]
 	path = brauerei-emulator
 	url = https://github.com/Dhalion/brauerei-emulator
+	branch = master
